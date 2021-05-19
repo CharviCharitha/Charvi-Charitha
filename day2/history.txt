@@ -1,0 +1,39 @@
+    1  pwd
+    2  pwd
+    3  touch day1
+    4  cat day2
+    5  cat>day2
+    6  ls
+    7  git init
+    8  git config --global user.name "CharviCharitha"
+    9  git config user.name
+   10  git config --global user.email "nagallacharvicharitha@gmail.com"
+   11  git config user.email
+   12  touch demo.csv
+   13  ls
+   14  git status
+   15  git add --a
+   16  git status
+   17  touch mydata.txt
+   18  ls
+   19  git status
+   20  git add mydata.txt
+   21  git status
+   22  git commit -m "files and folders are added"
+   23  git commit -m "files and folders are added"
+   24  git remote add Charvi Charitha https://github.com/CharviCharitha/Charvi-Charitha.git
+   25  git remote -v 
+   26  git remote add CharviCharitha https://github.com/CharviCharitha/Charvi-Charitha.git
+   27  git remote -v 
+   28  git push -u CharviCharitha master
+   29  ls
+   30  git status
+   31  cd day2
+   32  rm day2
+   33  ls
+   34  mkdir day2
+   35  rm day1
+   36  mkdir day1
+   37  ls
+   38  cd day2
+   39  history >> history.txt
